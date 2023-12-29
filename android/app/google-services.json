@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252996648395",
+    "project_id": "aiactivites",
+    "storage_bucket": "aiactivites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252996648395:android:ba6b99f2013a98cb160a4e",
+        "android_client_info": {
+          "package_name": "com.example.activites_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YzpnSEElSzmRYNy5tA167KSEV-0-qls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
