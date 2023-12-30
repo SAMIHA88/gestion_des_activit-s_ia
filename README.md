@@ -2,6 +2,14 @@
 
 Ce projet Flutter nommé "EventFlow" est une application mobile pour la gestion des activités. Elle permet aux utilisateurs de visualiser une liste d'activités, de les filtrer par catégorie, de voir les détails de chaque activité, et d'ajouter une catégorie en faisant la prédiction de la catégorie correspondante selon l'image importée.
 
+Chaque activité contient les informations suivantes:
+- Titre de l'activité
+- Prix de l'activité
+- Lieu de l'activité
+- Nombre minimum de participants à cette activité
+- Image de l'activité
+- Catégorie de l'activité prédite à partir de l'image
+
 ## Fonctionnalités
 
 - Visualisation de la liste des activités.
@@ -14,11 +22,27 @@ Ce projet Flutter nommé "EventFlow" est une application mobile pour la gestion 
 - Ajout et suppression d'activités.
 - Prédiction des catégories selon l'image de l'activité.
 
+## Outils et technologies utilisées
+
+* Flutter:
+Flutter est un kit de développement logiciel d'interface utilisateur open-source créé par Google. Il est utilisé pour développer des applications pour Android, iOS, Linux, Mac, Windows, Google Fuchsia et le web à partir d'une seule base de code.
+  ![image](https://github.com/SAMIHA88/gestion_des_activit-s_ia/assets/81178741/4d0c7668-cfc3-423e-ad9f-5494aa54aa2a)
+
+* TensorFlow lite
+TensorFlow est un outil open source d'apprentissage automatique développé par Google.
+  ![image](https://github.com/SAMIHA88/gestion_des_activit-s_ia/assets/81178741/4a527572-3253-48a0-be2e-600da15b3ad2)
+
+* FireBase
+FireBase est une plateforme de développement d'applications web et mobiles soutenue par Google, pour aider les développeurs à offrir des expériences d'applications plus riches.
+
+  ![image](https://github.com/SAMIHA88/gestion_des_activit-s_ia/assets/81178741/cfc537e0-b83d-436e-bb71-e7ea6b6491f3)
+
 ## Configuration du projet
 
 Pour exécuter ce projet, vous devez avoir Flutter installé sur votre machine. Si vous n'avez pas encore Flutter, vous pouvez le télécharger et l'installer depuis [Flutter.dev](https://flutter.dev).
 
-## Étapes pour exécuter le projet :
+## Étapes pour exécuter le projet 
+
 
 1. Clonez le dépôt :
 
