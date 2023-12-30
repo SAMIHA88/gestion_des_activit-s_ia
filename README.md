@@ -26,6 +26,7 @@ Chaque activité contient les informations suivantes:
 
 * Flutter:
 Flutter est un kit de développement logiciel d'interface utilisateur open-source créé par Google. Il est utilisé pour développer des applications pour Android, iOS, Linux, Mac, Windows, Google Fuchsia et le web à partir d'une seule base de code.
+
   ![image](https://github.com/SAMIHA88/gestion_des_activit-s_ia/assets/81178741/4d0c7668-cfc3-423e-ad9f-5494aa54aa2a)
 
 * TensorFlow lite
